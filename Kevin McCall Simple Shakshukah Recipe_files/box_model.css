@@ -17,11 +17,6 @@ aside {
   margin-right: 15px;
 }
 
-aside li {
-  margin-top: 15px;
-  margin-bottom: 15px;
-}
-
 #main {
   display: flex;
 }
@@ -33,11 +28,6 @@ nav li {
 nav li a {
   padding: 20px;
   display: block;
-}
-
-#directions ~ ol li {
-  margin-top: 15px;
-  margin-bottom: 15px;
 }
 
 h1 {
@@ -81,27 +71,6 @@ ol {
 .user_review h4 {
   font-size: 18px;
   font-weight: bold;
-}
-
-#reviews {
-  margin-top: 50px;
-  margin-bottom: 50px;
-  display: flex;
-  flex-direction: column;
-  align-content: stretch;
-}
-
-#name {
-  width: 600px;
-}
-
-#reviews input {
-  display: block;
-  margin-bottom:15px;
-}
-
-#review {
-  width: 600px;
 }
 
 input[type="radio"] {
